@@ -1,6 +1,6 @@
 {
   "alwaysShowSubjectInput": true,
-  "background": "/static/aurora_borealis.jpg",
+  "background": "/static/themes/aero-basic.jpg",
   "collapseMessageWithSubject": false,
   "greentext": false,
   "hideFilteredStatuses": false,
