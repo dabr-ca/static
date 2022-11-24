@@ -14,7 +14,7 @@
   "logoMask": true,
   "logoLeft": false,
   "minimalScopesMode": false,
-  "nsfwCensorImage": "",
+  "nsfwCensorImage": "/static/nsfw.png",
   "postContentType": "text/plain",
   "redirectRootLogin": "/main/friends",
   "redirectRootNoLogin": "/main/all",
