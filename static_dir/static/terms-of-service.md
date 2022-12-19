@@ -11,7 +11,7 @@
 
 #### About | 关于
 
-dabr.ca is powered by [Pleroma](https://pleroma.social/), a lightweight microblogging server. Pleroma is compatible with [Mastodon](https://joinmastodon.org/) and [other Fediverse software](https://fediverse.party/). A Fediverse site is capable to interact with any other Fediverse sites.
+dabr.ca is powered by [Pleroma](https://pleroma.social/), a lightweight microblogging server. Pleroma is compatible with [Mastodon](https://joinmastodon.org/) and [other Fediverse software](https://fediverse.party/). A Fediverse site is capable of interacting with any other Fediverse sites.
 
 dabr.ca 由 [Pleroma](https://pleroma.social/) 驱动。Pleroma 是一款轻量级微博客软件，它与 [Mastodon](https://joinmastodon.org/) 及[其他 Fediverse 软件](https://fediverse.party/)兼容。Fediverse 中站点间可以自由通讯。中文介绍：《[Fediverse 联邦宇宙](https://wzyboy.im/post/1486.html)》。
 
