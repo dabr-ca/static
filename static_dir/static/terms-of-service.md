@@ -5,7 +5,7 @@
 
 #### Maintenance | 维护
 
-- [Status | 服务状态](https://stats.uptimerobot.com/BjYxqfDm9G)
+- [Status | 服务状态](https://status.dabr.ca/)
 - [Terraform](https://github.com/dabr-ca/infra)
 - [Ansible](https://github.com/dabr-ca/config)
 
