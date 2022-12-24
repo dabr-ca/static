@@ -6,6 +6,7 @@
 #### Maintenance | 维护
 
 - [Status | 服务状态](https://status.dabr.ca/)
+- [News | 本站新闻](https://dabr.ca/webmaster)
 - [Terraform](https://github.com/dabr-ca/infra)
 - [Ansible](https://github.com/dabr-ca/config)
 
@@ -17,7 +18,7 @@ dabr.ca 由 [Pleroma](https://pleroma.social/) 驱动。Pleroma 是一款轻量�
 
 dabr.ca was set up in November 2022 to escape from [Elon Musks's Twitter](https://en.wikipedia.org/wiki/Acquisition_of_Twitter_by_Elon_Musk). It is hosted on AWS and maintained by [@wzyboy](https://dabr.ca/wzyboy) with configuration files hosted publicly on [GitHub](https://github.com/dabr-ca).
 
-dabr.ca 于 2022 年 11 月建立，旨在逃离 [Elon Musk 管理的 Twitter](https://en.wikipedia.org/wiki/Acquisition_of_Twitter_by_Elon_Musk)。本站由运行在 AWS 上，由 [@wzyboy](https://dabr.ca/wzyboy) 维护。本站所有配置文件公开维护于 [GitHub](https://github.com/dabr-ca)。
+dabr.ca 于 2022 年 11 月建立，旨在逃离 [Elon Musk 管理的 Twitter](https://en.wikipedia.org/wiki/Acquisition_of_Twitter_by_Elon_Musk)。本站运行在 AWS 上，由 [@wzyboy](https://dabr.ca/wzyboy) 维护。本站所有配置文件公开维护于 [GitHub](https://github.com/dabr-ca)。
 
 dabr.ca is closed for public registration, but if you happen to have a Twitter account that is followed by [@wzyboy on Twitter](https://twitter.com/wzyboy), you can send him a DM to request for a registration link. Otherwise, you are welcome to use [instances.social](https://instances.social/) to pick a site that is open for registration and join the Fediverse!
 
