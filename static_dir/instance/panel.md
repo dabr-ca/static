@@ -12,6 +12,6 @@ This site supports multiple web frontends. Have a try:
 
 Learn more: [About](https://dabr.ca/about)
 
-Get updates: [dabr.ca News](https://dabr.ca/webmaster)
+Get updates: [News](https://dabr.ca/webmaster)
 
 </div>
