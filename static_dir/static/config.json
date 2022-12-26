@@ -21,7 +21,7 @@
   "redirectRootNoLogin": "/main/all",
   "scopeCopy": true,
   "showFeaturesPanel": true,
-  "showInstanceSpecificPanel": false,
+  "showInstanceSpecificPanel": true,
   "sidebarRight": false,
   "subjectLineBehavior": "email",
   "theme": "aero-basic",
