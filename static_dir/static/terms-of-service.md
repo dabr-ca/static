@@ -7,6 +7,7 @@
 
 - [Status | 服务状态](https://status.dabr.ca/)
 - [News | 本站新闻](https://dabr.ca/webmaster)
+- [Phoenix LiveDashboard](https://dabr.ca/phoenix/live_dashboard/home)
 - [Terraform](https://github.com/dabr-ca/infra)
 - [Ansible](https://github.com/dabr-ca/config)
 
