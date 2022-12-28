@@ -3,6 +3,10 @@
 - Any content violating Canadian law is prohibited. | 禁止发布违反加拿大法律的内容。
 - Any content violating [AWS Acceptable Use Policy](https://aws.amazon.com/aup/) is prohibited. | 禁止发布违反 [AWS Acceptable Use Policy](https://aws.amazon.com/aup/) 的内容。
 
+If you see violating content on this site, please [contact site operator](mailto:webmaster@dabr.ca) for removal.
+
+如果你在本站看到了违反上述条款的内容，请[联系站长](mailto:webmaster@dabr.ca)移除。
+
 #### Maintenance | 维护
 
 - [Status | 服务状态](https://status.dabr.ca/)
