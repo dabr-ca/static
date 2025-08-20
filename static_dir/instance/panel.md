@@ -8,7 +8,6 @@ This site supports multiple web frontends. Have a try:
 - [Soapbox](https://fe.soapbox.pub/) - similar to Twitter
 - [Pinafore](https://pinafore.social/) - simple and clean UI
 - [Sengi](https://sengi.nicolas-constant.com/) - similar to TweetDeck
-- [MastoFE (glitch-lily)](https://gl.dabr.ca) - based on Mastodon (experimental)
 
 Learn more: [About](https://dabr.ca/about)
 
